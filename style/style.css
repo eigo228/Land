@@ -73,6 +73,7 @@ a {
 	border-bottom: 1px solid #fff;
 	transition-property: border-bottom;
 	transition-duration: 300ms;
+	color: #242f51;
 }
 .head__text a:visited {
 	color: #242f51;
