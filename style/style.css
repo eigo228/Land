@@ -78,6 +78,8 @@ a {
 .head__text a:visited {
 	color: #242f51;
 }
+.head__text a:link {
+	color: #242f51;
 .head__text a:hover {
 	border-bottom: 1px solid #242f51;
 }
